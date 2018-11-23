@@ -57,7 +57,7 @@ import argparse
 import sys
 
 
-default_user_name = 'kai'
+default_user_name = ''
 
 
 destination_folder_name = 'github_structure'
